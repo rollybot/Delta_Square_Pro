@@ -12,3 +12,6 @@ The current revision is V1.0.
 - Enclosed chamber
 - Integrated nozzle headset
 - 220v / 110v AC
+
+
+![rollybot.com Logo](https://rollybot.com/web/upload/category/logo/v2_550c76f65a6b750917e15b3e736b1d1f_YiVXFziCf1_top.jpg)
