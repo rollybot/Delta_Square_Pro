@@ -12,7 +12,7 @@ The current revision is V1.0.
 - Enclosed chamber
 - Integrated nozzle headset
 - 220v / 110v AC
-- 
+ 
 ## Release History
 ### V1.0 Initial release (2022 February)
 See https://github.com/VoronDesign/Voron-0/releases/tag/V0.0
