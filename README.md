@@ -1,4 +1,4 @@
-# Delta Square V1
+# Delta Square Pro
 Enclosed chamber-type Delta 3D printer.
 You can find the BOM and some parts for this printer at www.rollybot.com website.
 
