@@ -2,7 +2,7 @@
 Enclosed chamber-type Delta 3D printer.
 You can find the BOM and some parts for this printer at www.rollybot.com website.
 
-![220212_Delta_Square_v1 8](https://user-images.githubusercontent.com/5675424/153714069-bbfda10c-5646-44ac-a66e-31f59e82a46c.jpg)
+![제품_Delta Square v1_대표이미지01](https://user-images.githubusercontent.com/5675424/221409425-00b8b046-30c4-42a7-af24-027278fb6a15.jpg)
 The current revision is V1.0.
 
 ## Highlights
